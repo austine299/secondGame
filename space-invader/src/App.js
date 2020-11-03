@@ -7,7 +7,7 @@ class App extends Component {
       <div className="game-area">
 
         <div className="enemy">
-          <div ></div>
+          <div className="enemy-ship"></div>
         </div>
 
 

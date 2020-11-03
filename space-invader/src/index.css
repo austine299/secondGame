@@ -7,6 +7,18 @@
   margin: 50px auto;
 }
 
+.enemy-ship{
+  position: absolute;
+  margin-top: 92%;
+  margin-left: 53.9%;
+  width: 2%;
+  height: 2%;
+  background-color: #000;
+  border: 1px solid #fff;
+  z-index: 2;
+
+}
+
 .player-gun{
   position: absolute;
   margin-top: 92%;
